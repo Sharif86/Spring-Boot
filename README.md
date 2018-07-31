@@ -1,2 +1,1 @@
-# Spring-Boot
-This is spring boot Project
+# cf-sample
